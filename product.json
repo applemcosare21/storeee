@@ -1,0 +1,84 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "order_id": 10,
+        "product_name": "tanduay",
+        "product_brand": "labarn",
+        "created_at": "2023-12-21T13:44:41.000000Z",
+        "updated_at": "2023-12-21T13:44:41.000000Z"
+      },
+      {
+        "id": 2,
+        "order_id": 1,
+        "product_name": "safeguard",
+        "product_brand": "labarn",
+        "created_at": "2023-12-21T13:44:41.000000Z",
+        "updated_at": "2023-12-21T13:44:41.000000Z"
+      },
+      {
+        "id": 3,
+        "order_id": 9,
+        "product_name": "tv",
+        "product_brand": "tintin",
+        "created_at": "2023-12-21T13:44:41.000000Z",
+        "updated_at": "2023-12-21T13:44:41.000000Z"
+      },
+      {
+        "id": 4,
+        "order_id": 5,
+        "product_name": "iphone19pro",
+        "product_brand": "lovu",
+        "created_at": "2023-12-21T13:44:41.000000Z",
+        "updated_at": "2023-12-21T13:44:41.000000Z"
+      },
+      {
+        "id": 5,
+        "order_id": 5,
+        "product_name": "mio",
+        "product_brand": "brom",
+        "created_at": "2023-12-21T13:44:41.000000Z",
+        "updated_at": "2023-12-21T13:44:41.000000Z"
+      },
+      {
+        "id": 6,
+        "order_id": 8,
+        "product_name": "tv",
+        "product_brand": "lovu",
+        "created_at": "2023-12-21T13:44:41.000000Z",
+        "updated_at": "2023-12-21T13:44:41.000000Z"
+      },
+      {
+        "id": 7,
+        "order_id": 9,
+        "product_name": "laptop",
+        "product_brand": "lovu",
+        "created_at": "2023-12-21T13:44:41.000000Z",
+        "updated_at": "2023-12-21T13:44:41.000000Z"
+      },
+      {
+        "id": 8,
+        "order_id": 6,
+        "product_name": "mio",
+        "product_brand": "labarn",
+        "created_at": "2023-12-21T13:44:41.000000Z",
+        "updated_at": "2023-12-21T13:44:41.000000Z"
+      },
+      {
+        "id": 9,
+        "order_id": 4,
+        "product_name": "safeguard",
+        "product_brand": "tintin",
+        "created_at": "2023-12-21T13:44:41.000000Z",
+        "updated_at": "2023-12-21T13:44:41.000000Z"
+      },
+      {
+        "id": 10,
+        "order_id": 1,
+        "product_name": "tanduay",
+        "product_brand": "lovu",
+        "created_at": "2023-12-21T13:44:41.000000Z",
+        "updated_at": "2023-12-21T13:44:41.000000Z"
+      }
+    ]
+  }

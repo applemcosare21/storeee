@@ -1,0 +1,84 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "Bertram Lehner",
+        "email": "leonor.upton@example.net",
+        "full_name": "Alek Kozey V",
+        "created_at": "2023-12-21T08:23:04.000000Z",
+        "updated_at": "2023-12-21T08:23:04.000000Z"
+      },
+      {
+        "id": 2,
+        "username": "Mrs. Danika Erdman DDS",
+        "email": "hayes.kiley@example.com",
+        "full_name": "Dr. Raina Hegmann I",
+        "created_at": "2023-12-21T08:23:04.000000Z",
+        "updated_at": "2023-12-21T08:23:04.000000Z"
+      },
+      {
+        "id": 3,
+        "username": "Prof. Adrianna Bins",
+        "email": "johathan.mraz@example.com",
+        "full_name": "Minnie Goodwin",
+        "created_at": "2023-12-21T08:23:04.000000Z",
+        "updated_at": "2023-12-21T08:23:04.000000Z"
+      },
+      {
+        "id": 4,
+        "username": "Ena Dooley",
+        "email": "maye.gaylord@example.org",
+        "full_name": "Miss Pearline Swaniawski IV",
+        "created_at": "2023-12-21T08:23:04.000000Z",
+        "updated_at": "2023-12-21T08:23:04.000000Z"
+      },
+      {
+        "id": 5,
+        "username": "Yessenia Nader",
+        "email": "grady.izaiah@example.com",
+        "full_name": "Ken Sawayn V",
+        "created_at": "2023-12-21T08:23:04.000000Z",
+        "updated_at": "2023-12-21T08:23:04.000000Z"
+      },
+      {
+        "id": 6,
+        "username": "Prof. Marie Hahn PhD",
+        "email": "yundt.bobby@example.net",
+        "full_name": "Felton Bruen I",
+        "created_at": "2023-12-21T08:23:04.000000Z",
+        "updated_at": "2023-12-21T08:23:04.000000Z"
+      },
+      {
+        "id": 7,
+        "username": "Prof. Monty Turcotte",
+        "email": "nasir.dare@example.com",
+        "full_name": "Zora Douglas",
+        "created_at": "2023-12-21T08:23:04.000000Z",
+        "updated_at": "2023-12-21T08:23:04.000000Z"
+      },
+      {
+        "id": 8,
+        "username": "Jarrod Reynolds",
+        "email": "tommie.harber@example.com",
+        "full_name": "Julio Swift",
+        "created_at": "2023-12-21T08:23:04.000000Z",
+        "updated_at": "2023-12-21T08:23:04.000000Z"
+      },
+      {
+        "id": 9,
+        "username": "Mrs. Carli Kovacek Sr.",
+        "email": "august.ratke@example.org",
+        "full_name": "Alan Carroll",
+        "created_at": "2023-12-21T08:23:04.000000Z",
+        "updated_at": "2023-12-21T08:23:04.000000Z"
+      },
+      {
+        "id": 10,
+        "username": "Stanton Schaefer",
+        "email": "delia77@example.net",
+        "full_name": "Easter Senger",
+        "created_at": "2023-12-21T08:23:04.000000Z",
+        "updated_at": "2023-12-21T08:23:04.000000Z"
+      }
+    ]
+  }
